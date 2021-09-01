@@ -1,0 +1,13 @@
+/Users/seanmorgan/repos/Static/Static/bin/Debug/netcoreapp3.1/Static.deps.json
+/Users/seanmorgan/repos/Static/Static/bin/Debug/netcoreapp3.1/Static.runtimeconfig.json
+/Users/seanmorgan/repos/Static/Static/bin/Debug/netcoreapp3.1/Static.runtimeconfig.dev.json
+/Users/seanmorgan/repos/Static/Static/bin/Debug/netcoreapp3.1/Static.dll
+/Users/seanmorgan/repos/Static/Static/bin/Debug/netcoreapp3.1/Static.pdb
+/Users/seanmorgan/repos/Static/Static/obj/Debug/netcoreapp3.1/Static.csproj.AssemblyReference.cache
+/Users/seanmorgan/repos/Static/Static/obj/Debug/netcoreapp3.1/Static.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seanmorgan/repos/Static/Static/obj/Debug/netcoreapp3.1/Static.AssemblyInfoInputs.cache
+/Users/seanmorgan/repos/Static/Static/obj/Debug/netcoreapp3.1/Static.AssemblyInfo.cs
+/Users/seanmorgan/repos/Static/Static/obj/Debug/netcoreapp3.1/Static.csproj.CoreCompileInputs.cache
+/Users/seanmorgan/repos/Static/Static/obj/Debug/netcoreapp3.1/Static.dll
+/Users/seanmorgan/repos/Static/Static/obj/Debug/netcoreapp3.1/Static.pdb
+/Users/seanmorgan/repos/Static/Static/obj/Debug/netcoreapp3.1/Static.genruntimeconfig.cache
